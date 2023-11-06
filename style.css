@@ -114,9 +114,9 @@ margin: 20px;
   display: block;
   position: absolute;
   margin-left: -300px;
-  /* background-color:white; */
+  background-color:white;
   height: 400px;
-}
+} 
 
 /* .brandnavbar ul li:hover .sub_menu_1{
   display: block;
